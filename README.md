@@ -10,6 +10,6 @@ _**Technology**_: Python, pandas, scikit-learn, seaborn, matplotlib.
 
 _**Results**_: Developed a RandomForestRegressor model with an R-squared of 0.7424, indicating 74.24% variance explained in housing prices. Identified key predictors such as area, bathrooms, and parking.
 
-_**Code**_: [Housing Price Prediction Model.ipynb](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%205%20-%20Housing%20Price%20Prediction%20Model.ipynb)
+_**Code**_: [Housing Price Prediction Model.ipynb](https://github.com/Sulaiman-Dauda/Housing-Price-Prediction-Model/blob/main/code.ipynb)
 
 _**Presentation**_: [Medium](https://medium.com/@abiodauda/housing-price-prediction-model-with-machine-learning-b9e015051573)
